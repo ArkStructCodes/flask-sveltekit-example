@@ -1,6 +1,12 @@
-# Setup
+# Prerequisites
 
-`cd` into `frontend`, then run `npm install`.
- Now you can run `npm run build -- --watch` to tell vite to watch for changes.
+- python
+- node and npm
 
-Back in the project folder, run `flask --app app run --debug` to test the webapp.
+
+# Developing
+
+- Install `flask` using `pip` or an equivalent tool
+- `cd` into `frontend`, then run `npm install`
+
+Now you can use `python run_debug.py` to start a local development server.
